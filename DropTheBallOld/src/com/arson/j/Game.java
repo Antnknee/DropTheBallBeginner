@@ -4,8 +4,9 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
 import com.arson.j.input.KeyInput;
+import com.arson.j.objects.Enemy;
+
 
 public class Game extends JPanel implements ActionListener {
 
